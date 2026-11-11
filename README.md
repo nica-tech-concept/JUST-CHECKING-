@@ -1,58 +1,49 @@
-# NICA TECH CONCEPT
+# NICA TECH CONCEPT — The Master Digital Experience
 
-Recreation of the NICA TECH CONCEPT website for GitHub Pages / static hosting.
+Premium multi-page static website for NICA TECH CONCEPT.
 
-**Original:** https://nicatechconcept.lovable.app
+**Tagline:** Engineering Tomorrow, One Innovation at a Time.  
+**Signature:** I Am Building Something Bigger Than Myself.  
+**Location:** Ebonyi State, Nigeria.
 
-## About
+## Pages
 
-NICA TECH CONCEPT is an evolving engineering and technology organisation based in Ebonyi State, Nigeria. They explore mechatronics, robotics, AI, automation, IoT, smart agriculture and digital technology.
+- `index.html` — Home (hero, intro, technology areas, featured project, innovation process, CTA)
+- `about.html` — Vision, mission, philosophy, values
+- `what-we-do.html` — Eight technology disciplines
+- `projects.html` — Innovations (NICA SMART FARM 1.0 clearly labelled In Development / Concept)
+- `research.html` — Research & Development interests
+- `learning.html` — Learning Hub (structured for future content & NICA TECH HUB app)
+- `insights.html` — Insights & Journal structure
+- `community.html` — STEM, youth, collaboration
+- `services.html` — Design & creative services
+- `contact.html` — Contact form + real details + social links
 
-**Tagline:** Engineering Tomorrow, One Innovation at a Time.
+## Brand & Tech
 
-## Tech Stack
-
-- Pure HTML / CSS / JavaScript
-- Google Fonts: DM Sans + Space Grotesk
-- Dark technical aesthetic matching the original (oklch colors, circuit-inspired background)
+- Official logo (`logo.jpg`) used throughout (header + favicon)
+- Dark premium engineering aesthetic built around logo blues
+- Fonts: Space Grotesk (display), DM Sans (body), IBM Plex Mono (technical)
+- Smooth scroll reveals, sticky navigation, mobile menu
+- Fully responsive
+- Real contact: nnoromikechukwu09@gmail.com · +234 802 119 0233 (Phone & WhatsApp)
+- Official socials linked
 
 ## Deploy to GitHub Pages
 
-1. Create a new repository on GitHub.
-2. Upload the contents of this folder (`index.html`, `styles.css`, `script.js`, `README.md`) to the root of the repo.
-3. Go to **Settings → Pages**.
-4. Source: Deploy from a branch → `main` / `/(root)`.
-5. Save. Your site will be live at `https://yourusername.github.io/repo-name`.
+1. Create a new GitHub repository.
+2. Upload **all files** in this folder to the repository root.
+3. Settings → Pages → Deploy from branch `main` (root).
+4. Site will be live at `https://<username>.github.io/<repo-name>/`
 
-## Local Preview
+## Local preview
 
-Just open `index.html` in a browser, or run:
+Open `index.html` in a browser, or run:
 
 ```bash
 npx serve .
 ```
 
-## Notes
-
-- This is a static recreation of the homepage based on publicly visible content and design.
-- Subpages (`/about`, `/what-we-do`, `/projects`, `/contact`, etc.) are linked but not implemented here (placeholders).
-- All text content is taken from the live site as of November 2026.
-- Contact details have been updated with the real email and phone/WhatsApp provided.
-- Logo (`logo.jpg`) is included and used in the header + favicon.
-- Official social links are in the footer.
-
-## Official Contact & Socials
-
-- Email: nnoromikechukwu09@gmail.com
-- Phone / WhatsApp: +234 802 119 0233
-- Facebook: https://www.facebook.com/profile.php?id=61570184195456
-- TikTok: https://www.tiktok.com/@nicatechconcept
-- YouTube: https://www.youtube.com/@nicatechconcept
-- GitHub: https://github.com/nica-tech
-- Telegram: https://t.me/nicatechconcept
-
-Note on images: The official logo is included. Additional contextual images (e.g. Smart Farm concept visualisation) can be dropped into the folder and referenced in the HTML.
-
 ---
 
-© 2026 NICA TECH CONCEPT · I Am Building Something Bigger Than Myself.
+© 2026 NICA TECH CONCEPT · Innovate · Automate · Elevate
